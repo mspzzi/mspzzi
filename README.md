@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo **Milena Spiazzi**
 🇧🇷 Sou de Sorocaba/SP
 
-👩‍💻 Graduanda em Tecnologia de Ciência de Dados
+👩‍💻 Graduanda em Tecnologia em Ciência de Dados
 
 💞️ Buscando aprender um pouco mais a cada dia 
 
