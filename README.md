@@ -5,7 +5,11 @@
 
 💞️ Buscando aprender um pouco mais a cada dia 
 
-📫 Estou no [Linkedin](https://www.facebook.com/milena.spiazzi/)!
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/milena-spiazzi/" width="19" height="19" /> Estou no [Linkedin](https://www.linkedin.com/in/milena-spiazzi/)!
+
+                 
+          
 
 ##                                                                   "Lifelong Learning!" 🌐 📚
 
