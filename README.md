@@ -1,5 +1,5 @@
 # 👋 Olá, me chamo **Milena Spiazzi**
-🇧🇷 Sou de Sorocaba/SP
+🇧🇷 Moro em Sorocaba/SP
 
 👩‍💻 Graduanda em Tecnologia em Banco de Dados
 
