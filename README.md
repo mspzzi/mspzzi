@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo **Milena Spiazzi**
 🇧🇷 Moro em Sorocaba/SP
 
-👩‍💻 Graduanda em Marketing Digital e Data Science e Estagiária Engenheira de Dados
+👩‍💻 Graduanda em Marketing Digital e Data Science e Estagiária Data Analytics
 
  Buscando aprender um pouco mais a cada dia!
 
