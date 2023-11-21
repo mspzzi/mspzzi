@@ -3,7 +3,7 @@
 
 👩‍💻 Graduanda em Marketing Digital e Data Science e Estagiária Data Analytics
 
- Buscando aprender um pouco mais a cada dia!
+ Buscando aprender um pouco mais a cada dia
 
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/milena-spiazzi/" width="19" height="19" /> Estou no [Linkedin](https://www.linkedin.com/in/milena-spiazzi/)!
